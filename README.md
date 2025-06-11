@@ -40,8 +40,8 @@
 ### 🧾 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/VexChain.git
-cd VexChain
+git clone https://github.com/vexyenv/vexchain.git
+cd vexchain
 ```
 
 ### ⚙️ 2. Compile the Project
